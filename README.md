@@ -70,7 +70,7 @@ claude plugin install tdskill-basic@tdskill-basic
 
 **公众号：** 兔子舞的奇思妙想y — 更多深度文章和实战案例，微信搜索关注。
 
-**Skill 来源：** tdskill-basic 中全部的文案、语料库、方法论和案例均来源于兔导个人原创内容。
+**Skill 来源：** tdskill-basic 中全部的文案、语料库、方法论和案例均来源于兔导个人撰写创造的内容。
 
 ## ⚠️ 当前不足 ⚠️ 
 
@@ -93,7 +93,7 @@ claude plugin install tdskill-basic@tdskill-basic
 
 ## 💰 获取方式
 
-- **基础版（/tdskill-basic）**：开源公开免费，可免费获取
-- **付费版（/tdskill-max）**：报名兔导的核心私教以上可获取使用权限
+- **基础版（/tdskill-basic）**：开源公开免费，可直接下载Zip文件使用；
+- **付费版（/tdskill-max）**：报名兔导的核心私教以上可获取使用权限。
 
 **联系兔导：** VX 【Sylvie9711】
